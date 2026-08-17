@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Palavra_Creditos",
+  "%Name":"Obj_Palavra_Creditos_Mouse_em_cima_1_Final",
   "eventList":[],
   "managed":true,
-  "name":"Obj_Palavra_Creditos",
+  "name":"Obj_Palavra_Creditos_Mouse_em_cima_1_Final",
   "overriddenProperties":[],
   "parent":{
     "name":"Objeto_Letra",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Palavra_Creditos",
-    "path":"sprites/spr_Palavra_Creditos/spr_Palavra_Creditos.yy",
+    "name":"spr_Palavra_Creditos_Mouse_em_cima_1_Final",
+    "path":"sprites/spr_Palavra_Creditos_Mouse_em_cima_1_Final/spr_Palavra_Creditos_Mouse_em_cima_1_Final.yy",
   },
   "spriteMaskId":null,
   "visible":true,
