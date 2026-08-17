@@ -9,8 +9,8 @@
   "name":"obj_alan",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos_rm_Turing",
-    "path":"folders/Objetos_rm_Turing.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -8,8 +8,8 @@
   "name":"obj_luzparedeTuring",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos_rm_Turing",
-    "path":"folders/Objetos_rm_Turing.yy",
+    "name":"Objetos Turing",
+    "path":"folders/Objetos/Objetos Turing.yy",
   },
   "parentObjectId":null,
   "persistent":false,
