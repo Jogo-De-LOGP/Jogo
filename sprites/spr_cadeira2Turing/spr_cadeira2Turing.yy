@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Sprites_rm_Turing",
+    "path":"folders/Sprites_rm_Turing.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
