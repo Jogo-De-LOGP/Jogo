@@ -101,8 +101,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_Turing","path":"rooms/rm_Turing/rm_Turing.yy",},},
     {"roomId":{"name":"Menu_main","path":"rooms/Menu_main/Menu_main.yy",},},
+    {"roomId":{"name":"rm_Turing","path":"rooms/rm_Turing/rm_Turing.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
