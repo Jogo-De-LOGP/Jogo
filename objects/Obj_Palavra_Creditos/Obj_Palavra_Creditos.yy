@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objeto_Letra",
-    "path":"folders/Menu/Objeto_Letra.yy",
+    "path":"folders/Menu/Objetos_Menu/Objeto_Letra.yy",
   },
   "parentObjectId":null,
   "persistent":false,

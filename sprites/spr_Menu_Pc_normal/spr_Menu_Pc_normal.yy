@@ -34,7 +34,7 @@
   "origin":4,
   "parent":{
     "name":"Sprite_Menu",
-    "path":"folders/Menu/Sprite_Menu.yy",
+    "path":"folders/Menu/Sprite_Letras/Sprite_Menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -67,7 +67,7 @@
     },
     "name":"spr_Menu_Pc_normal",
     "playback":1,
-    "playbackSpeed":1.0,
+    "playbackSpeed":3.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
