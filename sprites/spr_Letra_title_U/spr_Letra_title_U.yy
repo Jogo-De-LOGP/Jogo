@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprite_Menu",
-    "path":"folders/Sprite_Menu.yy",
+    "name":"Sprite_Letras",
+    "path":"folders/Menu/Sprite_Letras.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos_Menu",
-    "path":"folders/Objetos_Menu.yy",
+    "path":"folders/Menu/Objetos_Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

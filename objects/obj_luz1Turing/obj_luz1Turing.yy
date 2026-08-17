@@ -8,8 +8,8 @@
   "name":"obj_luz1Turing",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Objetos_rm_Turing",
+    "path":"folders/Objetos_rm_Turing.yy",
   },
   "parentObjectId":null,
   "persistent":false,

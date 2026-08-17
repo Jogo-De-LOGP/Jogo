@@ -6,8 +6,8 @@
   "name":"Obj_Letra_title_S",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos_Menu",
-    "path":"folders/Objetos_Menu.yy",
+    "name":"Objeto_Letra",
+    "path":"folders/Menu/Objeto_Letra.yy",
   },
   "parentObjectId":null,
   "persistent":false,

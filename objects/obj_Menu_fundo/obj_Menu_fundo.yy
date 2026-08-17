@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_Menu_fundo",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_Menu_fundo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos_Menu",
-    "path":"folders/Objetos_Menu.yy",
+    "path":"folders/Menu/Objetos_Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
