@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites Menu",
-    "path":"folders/Sprites/Sprites Menu.yy",
+    "name":"Fonte do Rodrigo",
+    "path":"folders/Sprites/Fonte do Rodrigo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
