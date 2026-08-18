@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_Bossdoscreditosmovimentacao",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_Bossdoscreditosmovimentacao",
   "overriddenProperties":[],
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Bossdoscreditos",
-    "path":"sprites/spr_Bossdoscreditos/spr_Bossdoscreditos.yy",
+    "name":"spr_Bossdoscreditosmovimentacao",
+    "path":"sprites/spr_Bossdoscreditosmovimentacao/spr_Bossdoscreditosmovimentacao.yy",
   },
   "spriteMaskId":null,
   "visible":true,

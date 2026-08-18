@@ -20,6 +20,7 @@
     {"name":"inst_13B5FD5","path":"rooms/rm_Turing/rm_Turing.yy",},
     {"name":"inst_1CE86340","path":"rooms/rm_Turing/rm_Turing.yy",},
     {"name":"inst_180D0BDF","path":"rooms/rm_Turing/rm_Turing.yy",},
+    {"name":"inst_199E20BF","path":"rooms/rm_Turing/rm_Turing.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -38,6 +39,7 @@
         {"$GMRInstance":"v4","%Name":"inst_2F86F92F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2F86F92F","objectId":{"name":"obj_vidroparedeinv","path":"objects/obj_vidroparedeinv/obj_vidroparedeinv.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_74126EC3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_74126EC3","objectId":{"name":"obj_luzparedeTuring","path":"objects/obj_luzparedeTuring/obj_luzparedeTuring.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":0.0,"y":0.0,},
         {"$GMRInstance":"v4","%Name":"inst_180D0BDF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_180D0BDF","objectId":{"name":"obj_controladorTela","path":"objects/obj_controladorTela/obj_controladorTela.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.6342926,"scaleY":6.84375,"x":43.0,"y":-54.0,},
+        {"$GMRInstance":"v4","%Name":"inst_199E20BF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_199E20BF","objectId":{"name":"obj_Voltamenu","path":"objects/obj_Voltamenu/obj_Voltamenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":16.0,"y":776.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_FundoTuring","path":"sprites/spr_FundoTuring/spr_FundoTuring.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
