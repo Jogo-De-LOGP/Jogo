@@ -14,3 +14,9 @@ if (ponto < total) {
         ponto += 1;
     }
 }
+if (x > 1000) {
+	if (!instance_exists(obj_Textaofinal)) {
+	    instance_create_layer(418, 3736, "Instances", obj_Textaofinal); 
+	}
+}
+		

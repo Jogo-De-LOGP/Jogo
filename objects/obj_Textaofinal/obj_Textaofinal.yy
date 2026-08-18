@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"obj_Textaofinal",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_Textaofinal",
   "overriddenProperties":[],
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_funcaodesign",
-    "path":"sprites/spr_funcaodesign/spr_funcaodesign.yy",
+    "name":"spr_Textaofinal",
+    "path":"sprites/spr_Textaofinal/spr_Textaofinal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
