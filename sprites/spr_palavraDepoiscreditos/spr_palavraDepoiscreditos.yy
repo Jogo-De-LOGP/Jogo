@@ -45,8 +45,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Sprites Créditos",
-    "path":"folders/Sprites/Sprites Créditos.yy",
+    "name":"Sprites Palavras Rodrigo",
+    "path":"folders/Sprites/Sprites Palavras Rodrigo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

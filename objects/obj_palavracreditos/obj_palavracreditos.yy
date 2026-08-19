@@ -12,8 +12,8 @@
   "name":"obj_palavracreditos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Menu",
-    "path":"folders/Objetos/Objetos Menu.yy",
+    "name":"Objetos Palavras Rodrigo",
+    "path":"folders/Objetos/Objetos Palavras Rodrigo.yy",
   },
   "parentObjectId":null,
   "persistent":false,

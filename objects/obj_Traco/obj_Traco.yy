@@ -6,8 +6,8 @@
   "name":"obj_Traco",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fonte do Rodrigo",
-    "path":"folders/Sprites/Fonte do Rodrigo.yy",
+    "name":"Objetos Palavras Rodrigo",
+    "path":"folders/Objetos/Objetos Palavras Rodrigo.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -31,8 +31,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites Menu",
-    "path":"folders/Sprites/Sprites Menu.yy",
+    "name":"Sprites Palavras Rodrigo",
+    "path":"folders/Sprites/Sprites Palavras Rodrigo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

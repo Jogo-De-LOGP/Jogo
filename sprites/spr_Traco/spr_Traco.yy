@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Fonte do Rodrigo",
-    "path":"folders/Sprites/Fonte do Rodrigo.yy",
+    "name":"Sprites Palavras Rodrigo",
+    "path":"folders/Sprites/Sprites Palavras Rodrigo.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

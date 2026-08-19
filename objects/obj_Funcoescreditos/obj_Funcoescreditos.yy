@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_titulocreditos",
+  "%Name":"obj_Funcoescreditos",
   "eventList":[],
   "managed":true,
-  "name":"obj_titulocreditos",
+  "name":"obj_Funcoescreditos",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos Palavras Rodrigo",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_titulocreditos",
-    "path":"sprites/spr_titulocreditos/spr_titulocreditos.yy",
+    "name":"spr_Funcoescreditos",
+    "path":"sprites/spr_Funcoescreditos/spr_Funcoescreditos.yy",
   },
   "spriteMaskId":null,
   "visible":true,
