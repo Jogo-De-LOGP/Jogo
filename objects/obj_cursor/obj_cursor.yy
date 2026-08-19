@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controladorTela",
+  "%Name":"obj_cursor",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controladorTela",
+  "name":"obj_cursor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Turing",
-    "path":"folders/Objetos/Objetos Turing.yy",
+    "name":"Jogo",
+    "path":"Jogo.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_cursor",
+    "path":"sprites/spr_cursor/spr_cursor.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
