@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_playerEsquerda",
+  "%Name":"obj_playerEsquerda",
   "eventList":[],
   "managed":true,
-  "name":"Obj_playerEsquerda",
+  "name":"obj_playerEsquerda",
   "overriddenProperties":[],
   "parent":{
     "name":"Jogo",

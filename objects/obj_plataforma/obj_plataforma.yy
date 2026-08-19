@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_playerParado",
-  "eventList":[],
+  "%Name":"obj_plataforma",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_playerParado",
+  "name":"obj_plataforma",
   "overriddenProperties":[],
   "parent":{
     "name":"Jogo",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_playerParado",
-    "path":"sprites/spr_playerParado/spr_playerParado.yy",
+    "name":"spr_Plataforma",
+    "path":"sprites/spr_Plataforma/spr_Plataforma.yy",
   },
   "spriteMaskId":null,
   "visible":true,

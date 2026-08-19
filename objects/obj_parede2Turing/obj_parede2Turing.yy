@@ -8,8 +8,8 @@
   "name":"obj_parede2Turing",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Objetos Turing",
+    "path":"folders/Objetos/Objetos Turing.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -18,5 +18,11 @@ if (x > 1000) {
 	if (!instance_exists(obj_Textaofinal)) {
 	    instance_create_layer(418, 3736, "Instances", obj_Textaofinal); 
 	}
+	if(!instance_exists(obj_plataforma)) {
+		instance_create_layer(800, 800, "Instances", obj_plataforma);
+	}
+	if(!instance_exists(obj_player)) {
+		instance_create_layer(800, -100, "Instances", obj_player);
+	}
 }
 		
