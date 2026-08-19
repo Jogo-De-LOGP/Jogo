@@ -1,5 +1,14 @@
-if(keyboard_check(ord("D"))){x+=5;}
-if(keyboard_check(ord("A"))){x-=5;}
+if (keyboard_check(ord("D"))) {
+    x += 5;
+    sprite_index = spr_playerDireita;
+}
+else if (keyboard_check(ord("A"))) {
+    x -= 5;
+    sprite_index = spr_playerEsquerda;
+}
+else {
+    sprite_index = spr_playerParado;
+}
 if (keyboard_check_pressed(vk_space) && place_meeting(x, y+1, obj_plataforma)) {
     vspeed = jump_force;
 }

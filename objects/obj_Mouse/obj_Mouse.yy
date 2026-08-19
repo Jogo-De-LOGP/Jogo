@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_playerEsquerda",
+  "%Name":"obj_Mouse",
   "eventList":[],
   "managed":true,
-  "name":"obj_playerEsquerda",
+  "name":"obj_Mouse",
   "overriddenProperties":[],
   "parent":{
     "name":"Jogo",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_playerEsquerda",
-    "path":"sprites/spr_playerEsquerda/spr_playerEsquerda.yy",
+    "name":"spr_Mouse",
+    "path":"sprites/spr_Mouse/spr_Mouse.yy",
   },
   "spriteMaskId":null,
   "visible":true,

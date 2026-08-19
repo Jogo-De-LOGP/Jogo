@@ -14,6 +14,6 @@ if(acabou){
 if(!mouseemcima){
 	sprite_index=spr_titulosair;}
 time = time + delta_time / 1000000;
-if (time >= 5) {
+if (time >= 3) {
 	visible = true;
 }
