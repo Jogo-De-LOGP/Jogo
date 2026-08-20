@@ -1,5 +1,4 @@
-show_debug_message(mouseemcima);
-show_debug_message(acabou);
+
 if(sprite_index==spr_palavrajogarhover){
 if (image_index >= sprite_get_number(sprite_index) - 1) {
     acabou=true;

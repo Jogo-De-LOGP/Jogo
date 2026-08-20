@@ -4,3 +4,5 @@ var target_y = clamp(mouse_y-160, 150, 625);
 
 x = lerp(x, target_x, 0.6);
 y = lerp(y, target_y, 0.6);
+
+depth=-2000;

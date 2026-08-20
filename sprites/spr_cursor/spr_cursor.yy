@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
   "%Name":"spr_cursor",
-  "bboxMode":0,
-  "bbox_bottom":14,
+  "bboxMode":2,
+  "bbox_bottom":2,
   "bbox_left":2,
-  "bbox_right":11,
+  "bbox_right":4,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
