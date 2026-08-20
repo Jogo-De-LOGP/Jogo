@@ -34,3 +34,40 @@ if (place_meeting(x, y + vspeed, obj_plataforma)) {
 if(image_alpha!=1){
 	image_alpha+=0.05;
 }
+
+if (escudo_ativo)
+{
+    tempo_escudo += 1;
+    
+    if (tempo_escudo >= 60) // 1 segundo
+    {
+        escudo_ativo = false;
+        tempo_escudo = 0;
+    }
+}
+
+if (vida <= 0)
+{
+	obj_controlador.jamorreu=true;
+    instance_destroy();
+}
+
+
+if (piscar) {
+    piscar_timer++;
+
+    if (piscar_timer <= 30) {
+        image_alpha = lerp(1, 0.3, piscar_timer / 30);
+    }
+    else {
+        image_alpha = lerp(0.3, 1, (piscar_timer - 30) / 30);
+    }
+
+    if (piscar_timer >= 60) {
+        image_alpha = 1;
+        piscar_timer = 0;
+        piscar = false;
+    }
+}
+show_debug_message(vida);
+

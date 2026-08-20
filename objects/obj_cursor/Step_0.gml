@@ -6,3 +6,7 @@ x = lerp(x, target_x, 0.6);
 y = lerp(y, target_y, 0.6);
 
 depth=-2000;
+
+if(place_meeting(x, y, obj_areapai)){sprite_index=spr_cursorhover;} else{sprite_index=spr_cursor;}
+
+

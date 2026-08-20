@@ -21,8 +21,14 @@ if (x > 1000) {
 	if(!instance_exists(obj_plataforma)) {
 		instance_create_layer(800, 800, "Instances", obj_plataforma);
 	}
-	if(!instance_exists(obj_player)) {
+	if(!instance_exists(obj_player)&&!obj_controlador.jamorreu) {
+		
 		instance_create_layer(800, -100, "Instances", obj_player);
 	}
+	if(!instance_exists(obj_jogoplatafroma)) {
+		instance_create_layer(0, 0, "Instances", obj_jogoplatafroma);
+	}
 }
+
+
 		

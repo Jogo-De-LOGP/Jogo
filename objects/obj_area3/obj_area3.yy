@@ -11,7 +11,10 @@
     "name":"Jogo",
     "path":"Jogo.yyp",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_areapai",
+    "path":"objects/obj_areapai/obj_areapai.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
