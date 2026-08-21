@@ -20,3 +20,8 @@ if (wx != cx || wy != cy) {
     window_mouse_set(cx, cy);
 }
 }
+if (instance_exists(obj_Textaofinal)) {
+	if (obj_Textaofinal.y <= -2800) {
+		jamorreu = true;
+		finalreal = 1;
+		show_debug_message("Chegou final");} }

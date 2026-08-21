@@ -9,3 +9,4 @@ escudo_ativo = false;
 tempo_escudo = 0;
 piscar = false;
 piscar_timer = 0;
+time = 0;

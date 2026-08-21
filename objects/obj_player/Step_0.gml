@@ -1,3 +1,13 @@
+if (vida <= 0)
+{
+	sprite_index = (spr_playerMorrendo);
+	time = time + delta_time / 1000000;
+	if (time >= 1.2) {
+		obj_controlador.jamorreu=true;
+		instance_destroy();	
+}
+	exit;
+}
 if (keyboard_check(ord("D"))) {
     x += 5;
     sprite_index = spr_playerDireita;
@@ -46,13 +56,6 @@ if (escudo_ativo)
     }
 }
 
-if (vida <= 0)
-{
-	obj_controlador.jamorreu=true;
-    instance_destroy();
-}
-
-
 if (piscar) {
     piscar_timer++;
 
@@ -69,5 +72,4 @@ if (piscar) {
         piscar = false;
     }
 }
-show_debug_message(vida);
 
