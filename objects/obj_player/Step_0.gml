@@ -72,4 +72,6 @@ if (piscar) {
         piscar = false;
     }
 }
-
+if (y >= 800) {
+	obj_controlador.jamorreu = true;
+}

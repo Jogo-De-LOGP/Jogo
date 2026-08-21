@@ -67,8 +67,13 @@ if (obj_controlador.jamorreu == true && obj_controlador.finalreal >= 1) {
 		if (instance_exists(obj_plataforma)) {
 			with (obj_plataforma) {
 				if (image_xscale < 42) {
-					image_xscale += 0.05;
-					x -= (sprite_width * 0.05) / 2; }}}
+					image_xscale += 1;
+					x -= 30; }
+				if (!instance_exists(Obj_Saidadoscreditos)) {
+					instance_create_layer(82, 625, "instances", Obj_Saidadoscreditos);}}}
+		if (instance_exists(obj_Bossdoscreditosmovimentacao)) {
+			with (obj_Bossdoscreditosmovimentacao) {
+				instance_destroy(); }}
 			
 	}}
 else if (obj_controlador.jamorreu == true) {
