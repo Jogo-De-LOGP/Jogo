@@ -8,8 +8,8 @@
   "name":"obj_Finaldoscreditos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Menu",
-    "path":"folders/Objetos/Objetos Menu.yy",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -10,8 +10,8 @@
   "name":"obj_jogoplatafroma",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

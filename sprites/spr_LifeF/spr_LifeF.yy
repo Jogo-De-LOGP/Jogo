@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Sprites Créditos",
+    "path":"folders/Sprites/Sprites Créditos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

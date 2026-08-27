@@ -1,5 +1,3 @@
-
-
 if(place_meeting(x, y, obj_palavrajogar)){
 
 		if(instance_exists(obj_descricao)){

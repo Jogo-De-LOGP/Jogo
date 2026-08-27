@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_Ataqueboss1",
+  "%Name":"spr_ataqueboss1",
   "bboxMode":2,
   "bbox_bottom":13,
   "bbox_left":0,
@@ -22,19 +22,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"605ac4c2-cbef-484a-9c14-666b9526f773","blendMode":0,"displayName":"default","isLocked":false,"name":"605ac4c2-cbef-484a-9c14-666b9526f773","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_Ataqueboss1",
+  "name":"spr_ataqueboss1",
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Sprites Créditos",
+    "path":"folders/Sprites/Sprites Créditos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_Ataqueboss1",
+    "%Name":"spr_ataqueboss1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_Ataqueboss1",
+    "name":"spr_ataqueboss1",
     "playback":1,
     "playbackSpeed":5.0,
     "playbackSpeedType":0,
@@ -70,10 +70,10 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dda58642-187f-4176-a083-c305cc3c3ceb","path":"sprites/spr_Ataqueboss1/spr_Ataqueboss1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dda58642-187f-4176-a083-c305cc3c3ceb","path":"sprites/spr_ataqueboss1/spr_ataqueboss1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"773b8c1b-5ebc-435c-9b44-19c0125a75d4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b1436f36-b71f-44df-bcf8-71f41a36c8f6","path":"sprites/spr_Ataqueboss1/spr_Ataqueboss1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b1436f36-b71f-44df-bcf8-71f41a36c8f6","path":"sprites/spr_ataqueboss1/spr_ataqueboss1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f9e8920a-da45-456a-96e3-a458f2b52f2a","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

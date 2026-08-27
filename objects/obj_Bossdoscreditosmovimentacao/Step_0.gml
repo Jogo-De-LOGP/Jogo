@@ -28,10 +28,10 @@ if (x > 1000) {
 	if(!instance_exists(obj_jogoplatafroma)) {
 		instance_create_layer(0, 0, "Instances", obj_jogoplatafroma);
 	}
-	if(!instance_exists(Obj_Life1)) {
-		instance_create_layer(1326, 36, "Instances", Obj_Life1);
-		instance_create_layer(1326, 86, "Instances", Obj_Life2);
-		instance_create_layer(1326, 136, "Instances", Obj_Life3);
+	if(!instance_exists(obj_life1)) {
+		instance_create_layer(1326, 36, "Instances", obj_life1);
+		instance_create_layer(1326, 86, "Instances", obj_life2);
+		instance_create_layer(1326, 136, "Instances", obj_life3);
 	}
 }
 

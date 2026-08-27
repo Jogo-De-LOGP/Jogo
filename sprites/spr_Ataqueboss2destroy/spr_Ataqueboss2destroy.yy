@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_Ataqueboss2destroy",
+  "%Name":"spr_ataqueboss2destroy",
   "bboxMode":2,
   "bbox_bottom":16,
   "bbox_left":5,
@@ -26,19 +26,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"605ac4c2-cbef-484a-9c14-666b9526f773","blendMode":0,"displayName":"default","isLocked":false,"name":"605ac4c2-cbef-484a-9c14-666b9526f773","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_Ataqueboss2destroy",
+  "name":"spr_ataqueboss2destroy",
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Sprites Créditos",
+    "path":"folders/Sprites/Sprites Créditos.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_Ataqueboss2destroy",
+    "%Name":"spr_ataqueboss2destroy",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -62,7 +62,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_Ataqueboss2destroy",
+    "name":"spr_ataqueboss2destroy",
     "playback":1,
     "playbackSpeed":10.0,
     "playbackSpeedType":0,
@@ -74,22 +74,22 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6478de12-4061-4359-9416-a1412b702b94","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6478de12-4061-4359-9416-a1412b702b94","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"16fb4776-d943-4794-b82e-5a9cbc24a98d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4ad57d70-d013-40f0-a644-1b5fd13d7ce9","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4ad57d70-d013-40f0-a644-1b5fd13d7ce9","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"bbb432b1-6a2d-43d0-9fa8-8cddb78a1c55","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"05d6955a-0694-4f21-bef6-84aa56667e66","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"05d6955a-0694-4f21-bef6-84aa56667e66","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"88218f15-4bce-4d08-b373-8c913e72e476","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fbde8c7-081d-4a70-bdc1-5d0ddc86b79e","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4fbde8c7-081d-4a70-bdc1-5d0ddc86b79e","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c4dba527-829e-4c71-a43f-13606122bedf","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21dd4930-c6f5-46d9-88ad-09576992a2fd","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21dd4930-c6f5-46d9-88ad-09576992a2fd","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"481a0039-d115-4aad-8a0c-beb5a76c52f5","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f7b96091-9dcb-4b02-9ed8-21c7192a9301","path":"sprites/spr_Ataqueboss2destroy/spr_Ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f7b96091-9dcb-4b02-9ed8-21c7192a9301","path":"sprites/spr_ataqueboss2destroy/spr_ataqueboss2destroy.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6e01885d-30cc-4518-8f12-17aac3ce3f32","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

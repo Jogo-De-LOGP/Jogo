@@ -24,4 +24,4 @@ if (instance_exists(obj_Textaofinal)) {
 	if (obj_Textaofinal.y <= -2800) {
 		jamorreu = true;
 		finalreal = 1;
-		show_debug_message("Chegou final");} }
+		} }

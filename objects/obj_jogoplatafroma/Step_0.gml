@@ -55,22 +55,22 @@ if (obj_controlador.jamorreu == true && obj_controlador.finalreal >= 1) {
 		if (instance_exists(obj_ataqueboss2)) {
 			with (obj_ataqueboss2) {
 				instance_destroy(); }}
-		if (instance_exists(Obj_Life3)) {
-			with (Obj_Life3) {
+		if (instance_exists(obj_life3)) {
+			with (obj_life3) {
 				instance_destroy();}}
-		if (instance_exists(Obj_Life2)) {
-			with (Obj_Life2) {
+		if (instance_exists(obj_life2)) {
+			with (obj_life2) {
 				instance_destroy();}}
-		if (instance_exists(Obj_Life1)) {
-			with (Obj_Life1) {
+		if (instance_exists(obj_life1)) {
+			with (obj_life1) {
 				instance_destroy();}}
 		if (instance_exists(obj_plataforma)) {
 			with (obj_plataforma) {
 				if (image_xscale < 42) {
 					image_xscale += 1;
 					x -= 30; }
-				if (!instance_exists(Obj_Saidadoscreditos)) {
-					instance_create_layer(82, 625, "instances", Obj_Saidadoscreditos);}}}
+				if (!instance_exists(obj_saidadoscreditos)) {
+					instance_create_layer(82, 625, "instances", obj_saidadoscreditos);}}}
 		if (instance_exists(obj_Bossdoscreditosmovimentacao)) {
 			with (obj_Bossdoscreditosmovimentacao) {
 				instance_destroy(); }}
@@ -91,17 +91,17 @@ else if (obj_controlador.jamorreu == true) {
 		if (instance_exists(obj_ataqueboss2)) {
 			with (obj_ataqueboss2) {
 				instance_destroy(); }}
-		if (instance_exists(Obj_Life3)) {
-			with (Obj_Life3) {
+		if (instance_exists(obj_life3)) {
+			with (obj_life3) {
 				instance_destroy();}}
-		if (instance_exists(Obj_Life2)) {
-			with (Obj_Life2) {
+		if (instance_exists(obj_life2)) {
+			with (obj_life2) {
 				instance_destroy();}}
-		if (instance_exists(Obj_Life1)) {
-			with (Obj_Life1) {
+		if (instance_exists(obj_life1)) {
+			with (obj_life1) {
 				instance_destroy();}}
 		if (instance_exists(obj_Bossdoscreditosmovimentacao)) {
 			with (obj_Bossdoscreditosmovimentacao) {
 				instance_destroy();}}
-		instance_create_layer(679.5, 384, "instances", Obj_GameOver);
+		instance_create_layer(679.5, 384, "instances", obj_telagameover);
 }}

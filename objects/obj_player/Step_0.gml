@@ -28,12 +28,12 @@ if (keyboard_check_pressed(ord("W")) && place_meeting(x, y+1, obj_plataforma)) {
 if (place_meeting(x, y, obj_plataforma)) {
     y -= 1;
 }
-// aplica gravidade
+
 vspeed += grav;
 
-// checa se vai colidir com plataforma no próximo frame
+
 if (place_meeting(x, y + vspeed, obj_plataforma)) {
-    // encosta o player exatamente na plataforma, sem atravessar
+    
     while (!place_meeting(x, y + sign(vspeed), obj_plataforma)) {
         y += sign(vspeed);
     }
@@ -49,7 +49,7 @@ if (escudo_ativo)
 {
     tempo_escudo += 1;
     
-    if (tempo_escudo >= 60) // 1 segundo
+    if (tempo_escudo >= 60) 
     {
         escudo_ativo = false;
         tempo_escudo = 0;

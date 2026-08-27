@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Sprites Menu",
+    "path":"folders/Sprites/Sprites Menu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

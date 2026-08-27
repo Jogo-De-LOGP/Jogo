@@ -9,8 +9,8 @@
   "name":"obj_ataqueboss2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Ataqueboss2",
-    "path":"sprites/spr_Ataqueboss2/spr_Ataqueboss2.yy",
+    "name":"spr_ataqueboss2",
+    "path":"sprites/spr_ataqueboss2/spr_ataqueboss2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

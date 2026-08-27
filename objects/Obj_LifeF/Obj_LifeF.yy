@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_LifeF",
+  "%Name":"obj_lifef",
   "eventList":[],
   "managed":true,
-  "name":"Obj_LifeF",
+  "name":"obj_lifef",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

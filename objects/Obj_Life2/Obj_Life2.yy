@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Life2",
+  "%Name":"obj_life2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Life2",
+  "name":"obj_life2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

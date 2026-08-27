@@ -6,8 +6,8 @@
   "name":"obj_areapai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Jogo",
-    "path":"Jogo.yyp",
+    "name":"Objetos Menu",
+    "path":"folders/Objetos/Objetos Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
