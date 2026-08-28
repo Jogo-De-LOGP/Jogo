@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Voltamenu",
+  "%Name":"Obj_collision",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Voltamenu",
+  "name":"Obj_collision",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Menu",
-    "path":"folders/Objetos/Objetos Menu.yy",
+    "name":"Objetos Créditos",
+    "path":"folders/Objetos/Objetos Créditos.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_collisionblock",
+    "path":"objects/obj_collisionblock/obj_collisionblock.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Voltamenu",
-    "path":"sprites/spr_Voltamenu/spr_Voltamenu.yy",
+    "name":"spr_base2",
+    "path":"sprites/spr_base2/spr_base2.yy",
   },
   "spriteMaskId":null,
   "visible":false,

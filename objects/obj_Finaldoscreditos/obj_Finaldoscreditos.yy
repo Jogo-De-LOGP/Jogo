@@ -34,5 +34,5 @@
     "path":"sprites/spr_Voltamenu/spr_Voltamenu.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

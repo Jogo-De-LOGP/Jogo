@@ -14,11 +14,13 @@
     {"name":"inst_5D1ABC6D","path":"rooms/Menu_main/Menu_main.yy",},
     {"name":"inst_5631EB88","path":"rooms/Menu_main/Menu_main.yy",},
     {"name":"inst_19F57A76","path":"rooms/Menu_main/Menu_main.yy",},
+    {"name":"inst_2E3B07C2","path":"rooms/Menu_main/Menu_main.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_684416CF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_684416CF","objectId":{"name":"obj_pcmenuluz","path":"objects/obj_pcmenuluz/obj_pcmenuluz.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":512.0,"y":416.0,},
+        {"$GMRInstance":"v4","%Name":"inst_2E3B07C2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E3B07C2","objectId":{"name":"Obj_collission_hover_mouse","path":"objects/Obj_collission_hover_mouse/Obj_collission_hover_mouse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.15625,"scaleY":0.5,"x":371.0,"y":543.0,},
       ],"layers":[],"name":"Instances_2","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v4","%Name":"inst_7272FCB9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7272FCB9","objectId":{"name":"obj_pcmenu","path":"objects/obj_pcmenu/obj_pcmenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.0,"scaleY":7.0,"x":468.0,"y":385.0,},

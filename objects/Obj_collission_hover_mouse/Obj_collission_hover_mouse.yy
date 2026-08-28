@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Voltamenu",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_collission_hover_mouse",
+  "eventList":[],
   "managed":true,
-  "name":"obj_Voltamenu",
+  "name":"Obj_collission_hover_mouse",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos Menu",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Voltamenu",
-    "path":"sprites/spr_Voltamenu/spr_Voltamenu.yy",
+    "name":"spr_base2",
+    "path":"sprites/spr_base2/spr_base2.yy",
   },
   "spriteMaskId":null,
   "visible":false,

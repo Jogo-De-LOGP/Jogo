@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_Voltamenu",
+  "%Name":"obj_telafinalobg",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_Voltamenu",
+  "name":"obj_telafinalobg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Menu",
-    "path":"folders/Objetos/Objetos Menu.yy",
+    "name":"Objetos Palavras Rodrigo",
+    "path":"folders/Objetos/Objetos Palavras Rodrigo.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Voltamenu",
-    "path":"sprites/spr_Voltamenu/spr_Voltamenu.yy",
+    "name":"spr_telafinalobg",
+    "path":"sprites/spr_telafinalobg/spr_telafinalobg.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

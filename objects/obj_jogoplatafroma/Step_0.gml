@@ -70,10 +70,14 @@ if (obj_controlador.jamorreu == true && obj_controlador.finalreal >= 1) {
 					image_xscale += 1;
 					x -= 30; }
 				if (!instance_exists(obj_saidadoscreditos)) {
-					instance_create_layer(82, 625, "instances", obj_saidadoscreditos);}}}
+					instance_create_layer(82, 648, "instances", obj_saidadoscreditos);}}}
 		if (instance_exists(obj_Bossdoscreditosmovimentacao)) {
 			with (obj_Bossdoscreditosmovimentacao) {
 				instance_destroy(); }}
+		if (!instance_exists(Obj_collision)) {
+			instance_create_layer(1364, 410, "instances", Obj_collision);}
+		if (!instance_exists(obj_telafinalobg)) {
+			instance_create_layer(470, 240, "instances", obj_telafinalobg);}
 			
 	}}
 else if (obj_controlador.jamorreu == true) {
