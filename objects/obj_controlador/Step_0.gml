@@ -6,7 +6,7 @@ if (keyboard_check_pressed(ord("F")) || keyboard_check_pressed(vk_f11)) {
 if (keyboard_check_pressed(vk_escape)) {
     window_set_fullscreen(false);
 }
-if(room==Menu_main){
+if(room==rm_menu){
 var scale_x = window_get_width() / room_width;
 var scale_y = window_get_height() / room_height;
 

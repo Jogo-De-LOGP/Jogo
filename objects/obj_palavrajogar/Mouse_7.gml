@@ -1,1 +1,1 @@
-room_goto(rm_Turing);
+room_goto(rm_turing);

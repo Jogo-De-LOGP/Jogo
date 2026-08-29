@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_collission_hover_mouse",
-  "eventList":[],
+  "%Name":"obj_vaso",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_collission_hover_mouse",
+  "name":"obj_vaso",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos Menu",
-    "path":"folders/Objetos/Objetos Menu.yy",
+    "name":"Objetos",
+    "path":"folders/Objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_base2",
-    "path":"sprites/spr_base2/spr_base2.yy",
+    "name":"spr_vaso",
+    "path":"sprites/spr_vaso/spr_vaso.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

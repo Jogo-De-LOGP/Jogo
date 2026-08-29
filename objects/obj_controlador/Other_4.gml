@@ -1,6 +1,9 @@
-if(room==Menu_main){
+if(room==rm_menu){
 	window_set_cursor(cr_none);
 }
-if(room==Creditos){
+if(room==rm_creditos){
+	window_set_cursor(cr_default);
+}
+if(room==rm_turing){
 	window_set_cursor(cr_default);
 }

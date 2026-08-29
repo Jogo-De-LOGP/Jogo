@@ -1,1 +1,1 @@
-room_goto(Creditos);
+room_goto(rm_creditos);

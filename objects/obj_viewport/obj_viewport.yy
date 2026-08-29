@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_collisionblock",
-  "eventList":[],
+  "%Name":"obj_viewport",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_collisionblock",
+  "name":"obj_viewport",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_base2",
-    "path":"sprites/spr_base2/spr_base2.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

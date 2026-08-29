@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_collisionblock",
+  "%Name":"obj_area6",
   "eventList":[],
   "managed":true,
-  "name":"obj_collisionblock",
+  "name":"obj_area6",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Objetos Menu",
+    "path":"folders/Objetos/Objetos Menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
