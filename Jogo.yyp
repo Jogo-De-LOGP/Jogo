@@ -99,6 +99,7 @@
     {"id":{"name":"obj_vidroparedeinv","path":"objects/obj_vidroparedeinv/obj_vidroparedeinv.yy",},},
     {"id":{"name":"obj_viewport","path":"objects/obj_viewport/obj_viewport.yy",},},
     {"id":{"name":"obj_Voltamenu","path":"objects/obj_Voltamenu/obj_Voltamenu.yy",},},
+    {"id":{"name":"rm_bletchley","path":"rooms/rm_bletchley/rm_bletchley.yy",},},
     {"id":{"name":"rm_creditos","path":"rooms/rm_creditos/rm_creditos.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_turing","path":"rooms/rm_turing/rm_turing.yy",},},
@@ -110,6 +111,7 @@
     {"id":{"name":"spr_Ataquebossfim","path":"sprites/spr_Ataquebossfim/spr_Ataquebossfim.yy",},},
     {"id":{"name":"spr_base","path":"sprites/spr_base/spr_base.yy",},},
     {"id":{"name":"spr_base2","path":"sprites/spr_base2/spr_base2.yy",},},
+    {"id":{"name":"spr_bletchleyfundo","path":"sprites/spr_bletchleyfundo/spr_bletchleyfundo.yy",},},
     {"id":{"name":"spr_Bossdoscreditos","path":"sprites/spr_Bossdoscreditos/spr_Bossdoscreditos.yy",},},
     {"id":{"name":"spr_Bossdoscreditosmovimentacao","path":"sprites/spr_Bossdoscreditosmovimentacao/spr_Bossdoscreditosmovimentacao.yy",},},
     {"id":{"name":"spr_cadeira2Turing","path":"sprites/spr_cadeira2Turing/spr_cadeira2Turing.yy",},},
@@ -175,6 +177,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_bletchley","path":"rooms/rm_bletchley/rm_bletchley.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_turing","path":"rooms/rm_turing/rm_turing.yy",},},
     {"roomId":{"name":"rm_creditos","path":"rooms/rm_creditos/rm_creditos.yy",},},
