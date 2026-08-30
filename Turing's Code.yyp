@@ -99,6 +99,7 @@
     {"id":{"name":"obj_vidroparedeinv","path":"objects/obj_vidroparedeinv/obj_vidroparedeinv.yy",},},
     {"id":{"name":"obj_viewport","path":"objects/obj_viewport/obj_viewport.yy",},},
     {"id":{"name":"obj_Voltamenu","path":"objects/obj_Voltamenu/obj_Voltamenu.yy",},},
+    {"id":{"name":"Object68","path":"objects/Object68/Object68.yy",},},
     {"id":{"name":"rm_bletchley","path":"rooms/rm_bletchley/rm_bletchley.yy",},},
     {"id":{"name":"rm_creditos","path":"rooms/rm_creditos/rm_creditos.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
