@@ -10,6 +10,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"Sprites Cenários","folderPath":"folders/Sprites Cenários.yy","name":"Sprites Cenários","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos","folderPath":"folders/Objetos.yy","name":"Objetos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos Créditos","folderPath":"folders/Objetos/Objetos Créditos.yy","name":"Objetos Créditos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objetos Menu","folderPath":"folders/Objetos/Objetos Menu.yy","name":"Objetos Menu","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -132,6 +133,7 @@
     {"id":{"name":"spr_fundocreditos","path":"sprites/spr_fundocreditos/spr_fundocreditos.yy",},},
     {"id":{"name":"spr_fundomenu","path":"sprites/spr_fundomenu/spr_fundomenu.yy",},},
     {"id":{"name":"spr_FundoTuring","path":"sprites/spr_FundoTuring/spr_FundoTuring.yy",},},
+    {"id":{"name":"spr_hut8","path":"sprites/spr_hut8/spr_hut8.yy",},},
     {"id":{"name":"spr_Life","path":"sprites/spr_Life/spr_Life.yy",},},
     {"id":{"name":"spr_LifeF","path":"sprites/spr_LifeF/spr_LifeF.yy",},},
     {"id":{"name":"spr_luz1Turing","path":"sprites/spr_luz1Turing/spr_luz1Turing.yy",},},
@@ -181,7 +183,6 @@
     {"id":{"name":"Sprite1_E","path":"sprites/Sprite1_E/Sprite1_E.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
-    {"id":{"name":"Sprite80","path":"sprites/Sprite80/Sprite80.yy",},},
     {"id":{"name":"Sprite81","path":"sprites/Sprite81/Sprite81.yy",},},
     {"id":{"name":"SpriteD","path":"sprites/SpriteD/SpriteD.yy",},},
     {"id":{"name":"SpriteE","path":"sprites/SpriteE/SpriteE.yy",},},
